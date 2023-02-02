@@ -1,5 +1,5 @@
 
-# My github web pages
+# Links to the web maps
 
-This repository contains all my projects that required to be hosted through github pages
+Covid vaccination status - https://wanjirumonica.github.io/covidvaccination/
 

@@ -6,4 +6,6 @@ Covid vaccination status - https://wanjirumonica.github.io/covidvaccination/
 Distribution of vaccination centres in the country - https://wanjirumonica.github.io/centers/
 \
 Comparison between vaccination centres and adult population vaccinated - https://wanjirumonica.github.io/comparisons/
+\
+Maize production areas in Kenya - https://wanjirumonica.github.io/MaizeproductionKenya/
 

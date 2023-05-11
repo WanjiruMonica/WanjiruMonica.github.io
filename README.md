@@ -1,5 +1,9 @@
 
-# My github web pages
+# Links to the web maps
 
-This repository contains all my projects that required to be hosted through github pages
+Covid vaccination status - https://wanjirumonica.github.io/covidvaccination/
+\
+Distribution of vaccination centres in the country - https://wanjirumonica.github.io/centers/
+\
+Comparison between vaccination centres and adult population vaccinated - https://wanjirumonica.github.io/comparisons/
 
